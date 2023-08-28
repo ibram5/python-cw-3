@@ -1,6 +1,7 @@
 # write your code here
 favorite_animals = [ "dog" , "cat" , 'monkey', 'rabbit' ]
-print(favorite_animals , favorite_animals[1])
+print(favorite_animals )
+print(favorite_animals[1])
 favorite_animals.remove('monkey')
 
 
